@@ -1,0 +1,10 @@
+img {
+    height: auto;
+    width: 500px;
+}
+h1 {
+    color: rgb(5, 158, 138);
+}
+.recipe.link {
+    font-size: 20px;
+}
